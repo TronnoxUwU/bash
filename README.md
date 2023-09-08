@@ -14,3 +14,9 @@ cd : permet de se déplacer dans son home repérer par le ~ 
 cd .. : monte en arriere  
 ls : dit les sous fichier du fichier  
 
+tab = autocomplete
+
+../ed/csc   : chemin relative
+../../fefe  : chemin relative
+
+/hthht/grrg/grrgrg : chemin absolue
