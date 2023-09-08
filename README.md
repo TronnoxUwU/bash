@@ -5,3 +5,4 @@
 un text en **gras** et en *italique* et ***les deux***
 - item 1
 - item 2
+- item 3
