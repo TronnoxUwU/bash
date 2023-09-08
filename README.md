@@ -9,7 +9,7 @@ un text en **gras** et en *italique* et ***les deux***
 fezfjuizefheufzhz
 ### cd : change Direcotry
 cat 'nom fichier' : lit le fichier  
-cd 'nom dossier' : descend vers ce dossier  
+cd 'nom dossier' : descend vers ce dossier  /change directory  
 cd : permet de se déplacer dans son home repérer par le ~ 
 cd .. : monte en arriere  
 ls : dit les sous fichier du fichier  
