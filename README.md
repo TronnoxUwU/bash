@@ -11,3 +11,4 @@ fezfjuizefheufzhz
 cat : lit le fichier  
 cd 'nom fichier' : descend vers ce fichier  
 cd .. : monte en arriere  
+ls : dit les sous fichier du fichier  
