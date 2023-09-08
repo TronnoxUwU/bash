@@ -7,3 +7,7 @@ un text en **gras** et en *italique* et ***les deux***
 - item 2
 - item 3  
 fezfjuizefheufzhz
+
+cat : lit le fichier  
+cd 'nom fichier' : descend vers ce fichier  
+cd .. : monte en arriere  
