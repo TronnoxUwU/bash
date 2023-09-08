@@ -20,3 +20,5 @@ tab = autocomplete
 ../../fefe  : chemin relative
 
 /hthht/grrg/grrgrg : chemin absolue
+
+mkdir - v 'nom' : creer un fichier de nom 'nom'
