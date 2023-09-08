@@ -22,3 +22,4 @@ tab = autocomplete
 /hthht/grrg/grrgrg : chemin absolue
 
 mkdir - v 'nom' : creer un fichier de nom 'nom'
+echo : renvoi les arguments qui suivent
