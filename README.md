@@ -23,4 +23,15 @@ tab = autocomplete
 
 mkdir - v 'nom' : creer un fichier de nom 'nom'  
 echo : renvoi les arguments qui suivent  
-15/09/2023
+
+15/09/2023  
+## cours n°2  
+nano 'chemin vers un fichier' :ouvre un editeur de fichier   
+^s : sauvergarde
+^X : suprimme
+
+mkdir 'répertoir' : crée undoc 
+mkdir -r 'chemin non complet' : créer les fichier manquant en plus du fichier demander
+
+mkdir test1 test2 test3 : fait spawn les trois au meme endroit
+
