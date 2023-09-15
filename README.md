@@ -12,7 +12,12 @@ cat 'nom fichier' : lit le fichier
 cd 'nom dossier' : descend vers ce dossier  /change directory  
 cd : permet de se déplacer dans son home repérer par le ~ 
 cd .. : monte en arriere  
-ls : dit les sous fichier du fichier  
+ls : dit les sous fichier du fichier    
+ls -h : aide  
+ls -l : liste détailler  
+tree 'chemin' : affiche l'arboréscence 
+
+
 
 tab = autocomplete
 
@@ -35,3 +40,15 @@ mkdir -r 'chemin non complet' : créer les fichier manquant en plus du fichier d
 
 mkdir test1 test2 test3 : fait spawn les trois au meme endroit
 
+touch 'chemin vers un fichier' : permet de mettre à jour un fichier  
+touch 'chemin vers un fichier inexistant' : créer un fichier vide 
+
+rm 'chemin vers un fichier' : supprime un fichier  
+rm -r Travail : -r= option Travail= argument 
+
+
+
+du 'chemin vers un fichier' : Disk Usage : permet de connaitre la taille d'un réprtoire  
+du -s 'dossier'  
+du -h 'dossier'  
+du -sh  
