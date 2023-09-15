@@ -52,3 +52,6 @@ du 'chemin vers un fichier' : Disk Usage : permet de connaitre la taille d'un r√
 du -s 'dossier'  
 du -h 'dossier'  
 du -sh  
+
+cp 'fichier' : copi le fichier
+grep 'fichier' : cherche un mot dans un fichier
