@@ -19,8 +19,8 @@ tab = autocomplete
 ../ed/csc   : chemin relative
 ../../fefe  : chemin relative
 
-/hthht/grrg/grrgrg : chemin absolue
+/hthht/grrg/grrgrg : chemin absolue  
 
-mkdir - v 'nom' : creer un fichier de nom 'nom'
-echo : renvoi les arguments qui suivent
+mkdir - v 'nom' : creer un fichier de nom 'nom'  
+echo : renvoi les arguments qui suivent  
 15/09/2023
