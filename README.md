@@ -58,3 +58,4 @@ grep 'fichier' : cherche un mot dans un fichier
 
 chmod
 mv
+man
