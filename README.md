@@ -54,4 +54,5 @@ du -h 'dossier'
 du -sh  
 
 cp 'fichier' : copi le fichier
-grep 'fichier' : cherche un mot dans un fichier
+grep 'fichier' : cherche un mot dans un fichier  
+htht  gezg
