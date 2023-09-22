@@ -55,4 +55,5 @@ du -sh
 
 cp 'fichier' : copi le fichier
 grep 'fichier' : cherche un mot dans un fichier  
-htht  gezg
+
+chmod
