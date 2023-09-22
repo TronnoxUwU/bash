@@ -35,7 +35,7 @@ nano 'chemin vers un fichier' :ouvre un editeur de fichier
 ^s : sauvergarde
 ^X : suprimme
 
-mkdir 'répertoir' : crée undoc 
+mkdir 'répertoir' : crée un doc 
 mkdir -r 'chemin non complet' : créer les fichier manquant en plus du fichier demander
 
 mkdir test1 test2 test3 : fait spawn les trois au meme endroit
@@ -57,3 +57,4 @@ cp 'fichier' : copi le fichier
 grep 'fichier' : cherche un mot dans un fichier  
 
 chmod
+mv
