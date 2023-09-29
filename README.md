@@ -61,3 +61,7 @@ mv
 man   
 man     
 ddd 
+
+prenoms="tete"
+$prenoms :accede a la variable
+echo $prenoms : print le prenom
