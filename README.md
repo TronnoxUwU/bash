@@ -31,7 +31,7 @@ echo : renvoi les arguments qui suivent
 
 15/09/2023  
 ## cours n°2  
-nano 'chemin vers un fichier' :ouvre un editeur de fichier   
+nano 'chemin vers un ficgit config pull.rebase true hier' :ouvre un editeur de fichier   
 ^s : sauvergarde
 ^X : suprimme
 
