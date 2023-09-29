@@ -66,3 +66,6 @@ prenoms="tete"
 $prenoms :accede a la variable
 echo $prenoms : print le prenom
 read prenom : prenom = input()
+
+wich bash : donne le chemin de l'interpreteur bash
+wich python : pareil avec python
