@@ -72,3 +72,5 @@ wich python : pareil avec python
 
 ./nomfichier : execute le fichier :3
 c'est bien les "
+ \ : c'est cool
+expr
