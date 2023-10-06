@@ -87,3 +87,8 @@ apt install
 apt update 
 apt upgrade
 apt purge
+
+cp *.txt /toto
+
+[hk]a*
+o
