@@ -70,7 +70,20 @@ read prenom : prenom = input()
 wich bash : donne le chemin de l'interpreteur bash
 wich python : pareil avec python
 
+nb=$(ls -l *.png|wc -l)
+
 ./nomfichier : execute le fichier :3
 c'est bien les "
  \ : c'est cool
 expr
+
+ls -l > machin.tkt
+ls -l >> machin.txt
+2>
+2> /dev/null
+
+apt install
+
+apt update 
+apt upgrade
+apt purge
