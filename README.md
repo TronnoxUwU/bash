@@ -57,10 +57,10 @@ cp 'fichier' : copi le fichier
 grep 'fichier' : cherche un mot dans un fichier  
   
 chmod  
-mv  
-man   
+mv    
 man     
-ddd 
+man       
+ls -l   
 
 prenoms="tete"
 $prenoms :accede a la variable
@@ -69,3 +69,6 @@ read prenom : prenom = input()
 
 wich bash : donne le chemin de l'interpreteur bash
 wich python : pareil avec python
+
+./nomfichier : execute le fichier :3
+c'est bien les "
